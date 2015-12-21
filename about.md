@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 云风skynet框架研究
-description: 云风skynet框架研究
+title: about
+description: about
 category: blog
 ---
 
+vps宕机时自动切换到github pages
 
-这里只是vps宕机时自动切换到github pages的地方
