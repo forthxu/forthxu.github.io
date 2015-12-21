@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 云风skynet框架研究
 description: 云风skynet框架研究
 category: blog
