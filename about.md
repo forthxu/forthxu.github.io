@@ -1,9 +1,9 @@
 ---
-layout: post
-title: ÔÆ·çskynet¿ò¼ÜÑĞ¾¿
-description: ÔÆ·çskynet¿ò¼ÜÑĞ¾¿
+layout: default
+title: äº‘é£skynetæ¡†æ¶ç ”ç©¶
+description: äº‘é£skynetæ¡†æ¶ç ”ç©¶
 category: blog
 ---
 
 
-ÕâÀïÖ»ÊÇvpså´»úÊ±×Ô¶¯ÇĞ»»µ½github pagesµÄµØ·½
+è¿™é‡Œåªæ˜¯vpså®•æœºæ—¶è‡ªåŠ¨åˆ‡æ¢åˆ°github pagesçš„åœ°æ–¹
