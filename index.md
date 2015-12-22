@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Blog</span></a></li>
             <li style="text-align:center"><a href="/about"><span>about</span></a></li>
-            <li style="text-align:right"><a href="/skynet"><span>skynet</span></a></li>
+            <li style="text-align:right"><a href="/blog/skynet"><span>skynet</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
